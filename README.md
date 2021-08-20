@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Become a MERN Stack Developer
 - ⚡ Fun fact: I love to Singing and Playing Games
 - 📫 How to reach me: <a href="https://www.facebook.com/SyMkRaJ/"> Facebook Profile </a>, <a href="https://www.instagram.com/sayamkhanraj/">Instagram </a> , <a href="https://www.linkedin.com/in/najmul-hossain-sayam-khan-707507216/"> Linkedin </a>
-- 📫 My Portfolio: <a href="#">Sayamkhan</a>
+- 📫 My Portfolio: <a href="https://sayamkhanraj1.github.io/developer-portfolio/">Sayamkhan</a>
 
 <p align="left"> <a href="https://www.facebook.com/SyMkRaJ/" target="blank"><img src="https://img.shields.io/twitter/follow/sayamkhanraj?logo=twitter&style=for-the-badge" alt="sayamkhanraj" /></a> </p>
 
