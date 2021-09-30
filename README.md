@@ -2,7 +2,7 @@
 
 ## I'm a beginner Developer!!
 
-- 🔭 I just working in javascript
+- 🔭 I just working in javascript and react
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Programmers
 - 🥅 2022 Goals: Become a MERN Stack Developer
