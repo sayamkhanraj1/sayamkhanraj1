@@ -1,8 +1,8 @@
 # Hi! I am <a href="https://github.com/sayamkhanraj1">Sayam Khan</a>
 
-## I'm a beginner Developer!!
+## I'm Junior React Developer!!
 
-- 🔭 I just working in javascript and react
+- 🔭 I just Learned javascript and react
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other Programmers
 - 🥅 2022 Goals: Become a MERN Stack Developer
